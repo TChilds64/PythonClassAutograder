@@ -1,0 +1,10 @@
+Scooby 22 Shaggy 3 4 2023
+Scrappy 4 Velma 10 16 2022
+Rubble 1 Rider 4 4 2023
+Lassie 16 Timmy 7 17 2023
+Toto 5 Dorothy 9 21 2022
+Bolt 2 Penny 9 30 2022
+Clifford 7 Emily-Elizabeth 4 14 2023
+Petey 11 Alfalfa 1 15 2023
+Max 8 Grinch 12 25 2022
+Snoopy 23 Charlie 4 8 2023
